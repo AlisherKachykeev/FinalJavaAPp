@@ -15,5 +15,5 @@ Access to the video only through the [link](https://youtu.be/Ym_KuuS-qD8)
 ![logo alatoo](src/sample/Images/alatoo.png)
 ![logo](src/sample/Images/test.png)
 ## File
-Here is .jar file: [TestApp.jar]
-Here is tutorial![TestApp/TUTORIAL.md](TUTORIAL.md)
+Here is .jar file: [TestApp.jar](TestApp.jar)
+Here is tutorial: [TUTORIAL.md](TUTORIAL.md)
