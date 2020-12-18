@@ -15,6 +15,5 @@ Access to the video only through the [link](https://youtu.be/Ym_KuuS-qD8)
 ![logo alatoo](src/sample/Images/alatoo.png)
 ![logo](src/sample/Images/test.png)
 ## File
-And here is .jar file: [TestApp.jar]
-
+Here is .jar file: [TestApp.jar]
 
