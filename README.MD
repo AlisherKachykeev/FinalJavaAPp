@@ -6,7 +6,7 @@ Here is tutorial: [TUTORIAL.md](TUTORIAL.md)
 ## Team
 Kachykeev Alisher com19
 ## YouTube
-Access to the video only through the [link](https://youtu.be/Ym_KuuS-qD8)
+Access to the video only through the [link](https://youtu.be/4C8ru101PKE)
 ## Images
 ![it is how i started](src/sample/Images/starts.png)
 ![it is how i finished](src/sample/Images/ends.png)
